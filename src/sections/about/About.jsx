@@ -21,7 +21,7 @@ const About = () => {
             <div className='about__left-paragraphs'>
               <p>
                 Hi, I'm Steve Vincent and I'm a Full-Stack web developer with
-                2yrs+ experience. All my life I never wanted to be behind a
+                4yrs+ experience. All my life I never wanted to be behind a
                 computer screen because I thought it was routine work and it
                 didn't exercise me enough. But then, I graduated and I felt no
                 form of satisfaction or excitement. A friend reached out to me
