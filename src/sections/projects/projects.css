@@ -40,7 +40,7 @@
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 500;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 38px;
   text-transform: capitalize;
   color: #ffffff;
@@ -50,6 +50,9 @@
 }
 .behance__and__dribbble span a {
   color: var(--primary-color);
+}
+.behance__and__dribbble span a:hover {
+  transform: scale(.01);
 }
 /* .behance__and__dribbble span .dribbble a {
   border: 2px solid gold;
