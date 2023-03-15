@@ -3,7 +3,7 @@ import { useState } from 'react'
 import './about.css'
 import AboutImg from '../../assets/v.png'
 import Skills from '../../components/skills/Skills'
-import Cv from '../../assets/Tech-Resume.pdf'
+import Cv from '../../assets/Vincents-Resume.pdf'
 import data from './about-data'
 
 const About = () => {
